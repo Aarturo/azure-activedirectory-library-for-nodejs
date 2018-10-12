@@ -6,7 +6,7 @@ let context = new AuthenticationContext(authorityUrl, null, null, null);
 The fourth variable is the api_version of OAuth2 if null it stripped the spn:.
 
 ## Versions
-Current version - 0.1.29  
+Current version - 0.1.31  
 Minimum recommended version - 0.1.22  
 You can find the changes for each version in the [change log](https://github.com/AzureAD/azure-activedirectory-library-for-nodejs/blob/master/changelog.txt).
 
